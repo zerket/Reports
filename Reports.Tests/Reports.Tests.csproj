@@ -38,6 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Reports.Infrastructure\Reports.Infrastructure.csproj" />
     <ProjectReference Include="..\Reports\Reports.csproj" />
   </ItemGroup>
 
